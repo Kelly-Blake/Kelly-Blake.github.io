@@ -10,11 +10,11 @@
 }
 
 
-        #Banner { margin-top: 50px;
+        #Banner { float: left;
+                  margin-top: 50px;
                   margin-bottom: 50px;
                   margin-right: 50px;
                   margin-left: 50px; 
-                float: left;
 }
 
 
@@ -28,18 +28,17 @@
 
 
 
-        #KB {  margin-top: 50px;
+        #KB {  float: right;
+                margin-top: 50px;
                  margin-bottom: 50px;
                  margin-right: 50px;
                  margin-left: 50px;
-                float: right;
 }
 
 
 
         #Beach {float: right;
             margin-right: 40px;
-            margin-bottom: 6px;
 }
 
 
