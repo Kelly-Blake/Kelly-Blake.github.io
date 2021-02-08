@@ -21,8 +21,8 @@
 
 
         #Mountains { float: left;
-            margin-right: 6px;
-            margin-bottom: 6px; 
+            margin-right: 40px;
+            margin-left: 15px; 
 }
 
 
@@ -39,6 +39,7 @@
 
         #Beach {float: right;
             margin-right: 40px;
+                margin-left: 15px;
 }
 
 
