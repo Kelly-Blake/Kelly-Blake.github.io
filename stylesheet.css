@@ -27,10 +27,11 @@
 
 
 
-        #Hans { margin-left: 150px;
-                margin-right: 150px; 
-                margin-top: 110px;
-                margin-bottom: 110px";
+        #Hans { float: right;
+           margin-left: 150px;
+           margin-right: 150px; 
+           margin-top: 110px;
+           margin-bottom: 110px;
 }
 
 
