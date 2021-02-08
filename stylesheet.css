@@ -29,11 +29,10 @@
 
 
 
-        #Hans { margin-left: 100px;
-           margin-right: 150px; 
-           margin-top: 110px;
-           margin-bottom: 110px;
-                padding-top: 50px;
+        #Hans {  margin-top: 110px;
+                 margin-bottom: 110px;
+                 margin-right: 150px;
+                 margin-left: 150px;
 }
 
 
