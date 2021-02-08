@@ -15,3 +15,11 @@
                   margin-right: 150px;
                   margin-left: 150px; 
                 }
+
+        #Mountains {
+            width: 100px;
+            float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
+               }       
+            
