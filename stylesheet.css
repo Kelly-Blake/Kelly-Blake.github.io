@@ -3,30 +3,30 @@
         h1 {
             color: black
             font-family: "Copperplate", Copperplate, Fantasy;
-                }  
+}  
         
             
          body {background-image: url("myBackground_1.jpg") ;
-                }
+}
 
 
         #Banner { margin-top: 110px;
                   margin-bottom: 110px;
                   margin-right: 150px;
                   margin-left: 150px; 
-                }
+}
 
 
 
         #Mountains { float: left;
             margin-right: 6px;
             margin-bottom: 6px; 
-                }
+}
 
 
 
         #Hans { float: left; 
             margin-left: 6px; 
             margin-top: 6px; 
-                }
+}
         
