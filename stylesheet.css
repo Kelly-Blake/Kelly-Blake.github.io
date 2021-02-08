@@ -16,6 +16,8 @@
                   margin-left: 150px; 
                 }
 
-        #Mountains { float: Left; 
+        #Mountains { float: left;
+            margin-right: 6px;
+            margin-bottom: 6px; 
                 }
         
