@@ -10,10 +10,11 @@
 }
 
 
-        #Banner { margin-top: 90px;
+        #Banner { margin-top: 50px;
                   margin-bottom: 110px;
-                  margin-right: 120px;
+                  margin-right: 100px;
                   margin-left: 150px; 
+                float: left;
 }
 
 
@@ -44,7 +45,7 @@
 
 
         #Table { width:5%;
-                border-spacing: 5px;
+                border-spacing: 1px;
                 border: 1px solid black;
 }
 
