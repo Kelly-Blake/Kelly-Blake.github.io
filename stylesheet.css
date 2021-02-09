@@ -22,7 +22,9 @@
 
         #Mountains { float: left;
             margin-right: 15px;
-            padding-left: 25px; 
+            padding-left: 25px;
+            width:40%;
+            height:40%; 
 }
 
 
@@ -40,6 +42,8 @@
         #Beach {float: right;
             padding-right: 25px;
                 margin-left: 15px;
+                width:40%;
+                height:50%;
 }
 
 
